@@ -6,7 +6,7 @@ Below are individual break downs of user demographics and purchasing data into m
 
 <p> <img src="HeroesOfPymoli/images/1_setUp.png" align="right" width="500"/> Before any analysis could be completed the dependencies needed to manipulate the           data were imported.  Next, using Pandas the CSV containing the data was read and the first data frame was created. </p>
 <br clear="right"/>
-<br>
+<br><br>
     
 <p> <img src="HeroesOfPymoli/images/2_playerCount.png" align="right" width="500"/>
 <br>
@@ -16,7 +16,7 @@ Below are individual break downs of user demographics and purchasing data into m
 </ul>
 </p>
 <br clear="right"/>
-<br>
+<br><br>
 
 <p> <img src="HeroesOfPymoli/images/3_purchAnalysis.png" align="right" width="500"/>
 <strong>Purchasing Analysis (Total)</strong>
@@ -28,7 +28,7 @@ Below are individual break downs of user demographics and purchasing data into m
 </ul>
 </p>
 <br clear="right"/>
-<br>
+<br><br>
 
 <p> <img src="HeroesOfPymoli/images/4_genderDem.png" align="right" width="500"/>
   <strong>Gender Demographics</strong>
@@ -39,7 +39,7 @@ Below are individual break downs of user demographics and purchasing data into m
 </ul>
 </p>
 <br clear="right"/>
-<br>
+<br><br>
 
 <p> <img src="HeroesOfPymoli/images/5_purchAnGen.png" align="right" width="500"/>
 <strong>Purchasing Analysis (Gender)</strong>
@@ -54,7 +54,7 @@ Below are individual break downs of user demographics and purchasing data into m
 </ul>
 </p>
 <br clear="right"/>
-<br>
+<br><br>
 
 <p> <img src="HeroesOfPymoli/images/6_ageDemBins.png" align="right" width="500"/>
 <strong>Age Demographics</strong>
@@ -69,12 +69,12 @@ Below are individual break downs of user demographics and purchasing data into m
 </ul>
 </p>
 <br clear="right"/>
-<br>
 
 <p float="left"> 
   <img src="HeroesOfPymoli/images/8_purchAnAge.png" width="500"/>
   <img src="HeroesOfPymoli/images/9_purchAnOutput.png" width="450"/>
 </p>
+<br><br>
 
 <p> <img src="HeroesOfPymoli/images/10_topSpenders.png" align="right" width="500"/>
   <strong>Top Spenders</strong>
@@ -89,23 +89,42 @@ Below are individual break downs of user demographics and purchasing data into m
 </ul>
 </p>
 <br clear="right"/>
-<br>
+<br><br>
 
-
-------------------TEMPLATE - COPY ONLY ---------------
-<p> <img src="HeroesOfPymoli/images/.png" align="right" width="500"/>
-  <strong>TITLE</strong>
+<p> <img src="HeroesOfPymoli/images/11_mostPopItems.png" align="right" width="500"/>
+  <strong>Most Popular Items</strong>
 <ul>
-  <li>text</li>
-    
-  <li>text</li>
-  <li>text</li>
-  <li>text</li>
-  <li>text</li>
-  <li>text</li>
-  <li>text</li>
+    <li>Identied the 5 most popular items by purchase count, then listed in a table:</li>
+        <ul>    
+          <li>Item ID</li>
+          <li>Item Name</li>
+          <li>Purchase Count</li>
+          <li>Item Price</li>
+          <li>Total Purchase Value</li>
+        </ul>
+</ul>
+</p>
+
+<p align="center"> 
+    <h3>Output for Most Popular Items</h3>
+    <img src="HeroesOfPymoli/images/12_mostPopOutput.png" align="center" width="400"/> 
+</p>
+<br clear="right"/>
+<br><br>
+
+<p> <img src="HeroesOfPymoli/images/13_mostProfItems.png" align="right" width="500"/>
+  <strong>Most Profitable Items</strong>
+<ul>
+  <li>Identified the 5 most profitable items by total purchase value, then listed in table:</li>
+    <ul>
+      <li>Item ID</li>
+      <li>Item Name</li>
+      <li>Purchase Count</li>
+      <li>Item Price</li>
+      <li>Total Purchase Value</li>
+    </ul>
 </ul>
 </p>
 <br clear="right"/>
-<br>
+<br><br>
 
