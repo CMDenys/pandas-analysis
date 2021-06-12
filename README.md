@@ -70,7 +70,7 @@ Below are individual break downs of user demographics and purchasing data into m
 </p>
 <br clear="right"/>
 
-<p float="left"> 
+<p float="left" align="center"> 
   <img src="HeroesOfPymoli/images/8_purchAnAge.png" width="500"/>
   <img src="HeroesOfPymoli/images/9_purchAnOutput.png" width="450"/>
 </p>
